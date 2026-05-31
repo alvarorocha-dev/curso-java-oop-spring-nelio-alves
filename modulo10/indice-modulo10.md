@@ -6,3 +6,4 @@ Arrays - Vetores
 3 - ExemploProdutos02 (Array com Classe Recap)
 4 - ExerciciosNegativos01
 5 - ExercicioSomaVetor01
+6 - ExercicioMediaAlturas01
