@@ -7,3 +7,7 @@ Arrays - Vetores
 4 - ExerciciosNegativos01
 5 - ExercicioSomaVetor01
 6 - ExercicioMediaAlturas01
+7 - ExercicioNumerosPares01
+8 - ExercicioMaiorPosicao01
+9 - ExercicioTotalVetores01
+10 - ExercicioAbaixoMedia01
