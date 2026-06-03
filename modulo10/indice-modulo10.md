@@ -1,13 +1,16 @@
 Arrays - Vetores
 
-1 - ExemploAltura
-2 - ExemploProdutos01
-3 - ExemploProdutos (Array com Classe)
-3 - ExemploProdutos02 (Array com Classe Recap)
-4 - ExerciciosNegativos01
-5 - ExercicioSomaVetor01
-6 - ExercicioMediaAlturas01
-7 - ExercicioNumerosPares01
-8 - ExercicioMaiorPosicao01
-9 - ExercicioTotalVetores01
+01 - ExemploAltura
+02 - ExemploProdutos01
+03 - ExemploProdutos (Array com Classe)
+03 - ExemploProdutos02 (Array com Classe Recap)
+04 - ExerciciosNegativos01
+05 - ExercicioSomaVetor01
+06 - ExercicioMediaAlturas01
+07 - ExercicioNumerosPares01
+08 - ExercicioMaiorPosicao01
+09 - ExercicioTotalVetores01
 10 - ExercicioAbaixoMedia01
+11 - ExercicioMediaPares01
+12 - ExercicioMaisVelho01
+13 - ExerciciosAprovados01
