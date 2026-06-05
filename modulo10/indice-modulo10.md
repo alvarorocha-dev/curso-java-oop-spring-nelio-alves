@@ -13,5 +13,8 @@ Arrays - Vetores
 10 - ExercicioAbaixoMedia01
 11 - ExercicioMediaPares01
 12 - ExercicioMaisVelho01
+12 - ExercicioMaisVelho02 (Corrigido com vetor único)
 13 - ExerciciosAprovados01
+13 - ExerciciosAprovados02 (Corrigido com vetor único)
 14 - ExerciciosDadosPessoas01
+14 - ExerciciosDadosPessoas02 (Corrigido com vetor único)

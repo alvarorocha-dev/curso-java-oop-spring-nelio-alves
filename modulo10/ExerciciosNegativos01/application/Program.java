@@ -23,15 +23,13 @@ public class Program {
 
         System.out.println();
         System.out.println("Números negativos");
-
+        
         //Loop que obtem todos os valores do vetor e registra os que são menores que "0"
         for (int i = 0; i < numeros.length; i++) {
-            int local = numeros[i].getNumber(); //usa o metodo "getNumber" para capturar o numsero na posição "i" do vetor "numeros"
-            if (local < 0) {
-                System.out.println(local);
+            if (numeros[i].getNumber() < 0) { //utiliza função "getNumber()" para capturar o numero na posição [i] do vetor e verifica se é menor que "0"
+                System.out.println(numeros[i].getNumber()); //imprime o valor na posiçao [i] do vetor caso seja verdade
             }
         }
-
         sc.close();
     }    
 }
