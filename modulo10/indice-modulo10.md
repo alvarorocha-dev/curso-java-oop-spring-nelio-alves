@@ -18,3 +18,4 @@ Arrays - Vetores
 13 - ExerciciosAprovados02 (Corrigido com vetor único)
 14 - ExerciciosDadosPessoas01
 14 - ExerciciosDadosPessoas02 (Corrigido com vetor único)
+15 - ExercicioPensionato01
