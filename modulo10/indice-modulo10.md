@@ -19,3 +19,9 @@ Arrays - Vetores
 14 - ExerciciosDadosPessoas01
 14 - ExerciciosDadosPessoas02 (Corrigido com vetor único)
 15 - ExercicioPensionato01
+16 - ExemploBoxingUnboxing01
+17 - ExemploLacoForEach01
+18 - ExemploListas01
+18 - ExemploListas02
+19 - ExercicioPropostoListas01
+19 - ExercicioPropostoListas02 (Versão com list.stream)
