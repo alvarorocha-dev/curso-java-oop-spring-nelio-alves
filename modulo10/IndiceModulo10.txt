@@ -26,4 +26,3 @@ Arrays - Vetores
 19 - ExercicioPropostoListas01
 19 - ExercicioPropostoListas02 (Versão com list.stream)
 20 - ExemploMatrizes01
-21 - ExercicioPropostoMatriz01
