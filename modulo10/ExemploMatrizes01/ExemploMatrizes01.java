@@ -18,7 +18,6 @@ public class ExemploMatrizes01 {
             }
         }
 
-
         // Percorre apenas a diagonal principal (onde linha == coluna)
         // Economiza processamento: O(N) em vez de O(N²)
         System.out.println("Main Diagonal: ");

@@ -1,17 +1,19 @@
-package modulo12.Enumeracoes01.entities;
+package modulo12.Enumeracoes02.entities;
 
 import java.util.Date;
-//import modulo12.Enumeracoes01.entities.OrderStatus;
+import modulo12.Enumeracoes01.entities.OrderStatus;
 
-public class Order {    
+public class Order {
+
     private Integer id;
     private Date moment;
     private OrderStatus status;
 
     public Order() {
+        
     }
-
-    public Order (Integer id, Date moment, OrderStatus status) {
+    
+    public Order(Integer id, Date moment, OrderStatus status) {
         this.id = id;
         this.moment = moment;
         this.status = status;
@@ -42,10 +44,7 @@ public class Order {
     }
 
     @Override
-
     public String toString() {
-        return "Order ID: " + id + ", moment: " + moment + ", status: " + status;
-    }
-    
-    
+        return "Order [id=" + id + ", moment=" + moment + ", status=" + status + "]";
+    }    
 }

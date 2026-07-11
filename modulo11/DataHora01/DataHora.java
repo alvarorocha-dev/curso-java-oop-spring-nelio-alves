@@ -40,7 +40,6 @@ public class DataHora {
          System.out.println("Data com o Date Time Formatter: " + d09);
          System.out.println("Data com o Date Time Formatter InLine: " + d009);
          System.out.println("Data com o Date Time Formatter InLine: " + d10);
-         System.out.println("Data com o Date Time Formatter InLine: " + d11);
-       
+         System.out.println("Data com o Date Time Formatter InLine: " + d11);       
     }
 }
