@@ -1,9 +1,6 @@
 package modulo12.ExemploComposicao03.entities;
 
-
-
-public class OrderItem {
-    
+public class OrderItem {    
     private Integer quantity;
     private Double price;
     private Product product; 
@@ -44,7 +41,6 @@ public class OrderItem {
     public double subTotal() {
         return price * quantity;
     }
-
 
     @Override
     public String toString() {

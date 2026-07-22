@@ -81,5 +81,4 @@ public class Order {
         sb.append(String.format("%.2f", total()));
         return sb.toString();
     }
-
 }

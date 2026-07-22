@@ -1,7 +1,6 @@
 package modulo12.ExemploComposicao03.entities.enums;
 
 public enum OrderStatus {
-
     PENDING_PAYMENT,
     PROCESSING,
     SHIPPED,
