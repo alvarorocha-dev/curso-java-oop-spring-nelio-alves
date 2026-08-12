@@ -2,7 +2,7 @@ package DolarIOF.util;
 
 public class CalcDolar {
     
-    public static final double IOF = 6; //constatnte com o valor do IOF
+    public static final double IOF = 6; //constante com o valor do IOF
 
     public static double dollarPrice; //recebe a cotação do dolar  
 

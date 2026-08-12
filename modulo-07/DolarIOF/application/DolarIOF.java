@@ -21,10 +21,8 @@ public class DolarIOF {
         double totalImposto = CalcDolar.CalcIOF(valorReal); //executa o método "CalcIOF" com o parâmetro "ValorReal" na classe "CalcDolar"
 
         System.out.printf("Amount in R$: %.2f\n", valorReal);
-        System.out.printf("Amount with tax in R$: %.2f\n", totalImposto);
-        
+        System.out.printf("Amount with tax in R$: %.2f\n", totalImposto);        
 
         sc.close();
-    }
-    
+    }    
 }
